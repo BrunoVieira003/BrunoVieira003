@@ -8,7 +8,7 @@
 * [Tecnologias](#tecnologias-que-estou-estudando)
 
 ## Sobre mim
-Me chamo Bruno e estou iniciando na carreira como desenvolvedor. Comecei com python e fui seguindo para outras tecnologias como Javascript, HTML e CSS. Busco me tornar um desenvolvedor Full-stack, porém foco em aprimorar meus conhecimentos da parte de Front-end.
+Me chamo Bruno e estou iniciando na carreira como desenvolvedor. Comecei com python e fui seguindo para outras tecnologias como Javascript, HTML e CSS. Busco me tornar um desenvolvedor Full-stack, porém atualmente foco em aprimorar meus conhecimentos da parte de Front-end.
 
 ## Projetos
 * [todo_list](https://github.com/BrunoVieira003/todo_list) - Lista de tarefas com Flask
