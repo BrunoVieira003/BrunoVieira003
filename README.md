@@ -1,13 +1,5 @@
 # Olá, me chamo Bruno!
-## Bem-vindo ao meu perfil :wave:
-
-
-## Índice
-* [Sobre mim](#sobre-mim)
-* [Projetos](#projetos)
-* [Tecnologias](#tecnologias-que-estou-estudando)
-
-## Sobre mim
+## :v: Bem-vindo ao meu perfil
 Me chamo Bruno e estou iniciando na carreira como desenvolvedor. Comecei com python e fui seguindo para outras tecnologias como Javascript, HTML e CSS. Busco me tornar um desenvolvedor Full-stack, porém atualmente foco em aprimorar meus conhecimentos da parte de Front-end.
 
 ## Projetos
